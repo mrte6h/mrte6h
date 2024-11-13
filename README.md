@@ -4,8 +4,7 @@
   <h2> This is Saeid Mohammadi! A Junior Frontend Programmer</h2>
   
 </div>
-# 💫 About Me:
-🔭 I’m currently working on react<br><br>
+
 
 
 ## 🌐 Socials:
