@@ -1,6 +1,6 @@
 <div align='left'>
   
-  <h2> This is Saeid Mohammadi! A Junior Frontend Programmer</h2>
+  <h2> This is Saeid Mohammadi! </h2>
   
 
 
