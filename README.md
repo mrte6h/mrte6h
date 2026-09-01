@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrte6h) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeid-mohammadi-463818251) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrte6h) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrte6h) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeid-mohammadi-463818251) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kourosh_dev) 
 
 
 
